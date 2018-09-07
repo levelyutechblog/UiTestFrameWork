@@ -1,0 +1,1553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34728e91-aa27-4480-8f44-f2c12dd7c724" name="默认的" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/related_package/8.1Web端UI自动化脚本功能点覆盖清单及测试用例.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/related_package/readMe.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/.idea/8.1framework.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/clearEnv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/config.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/custom_page/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/custom_page/extensions.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/custom_page/pAccount.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/custom_page/pAsset.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/custom_page/pAttendaceCanlendar.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/custom_page/pAttendanceGroup.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/custom_page/pChannelCustomer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/custom_page/pCompetingProduct.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/custom_page/pDictionary.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/custom_page/pDoneList.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/custom_page/pGift.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/custom_page/pKA.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/custom_page/pKpi.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/custom_page/pLog.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/custom_page/pLogin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/custom_page/pMonitor.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/custom_page/pNotice.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/custom_page/pOrg.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/custom_page/pOrgKpi.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/custom_page/pPermission.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/custom_page/pPlanMake.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/custom_page/pPost.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/custom_page/pProduct.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/custom_page/pReceivedReport.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/custom_page/pReport.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/custom_page/pShiftManagement.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/custom_page/pSignRecord.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/custom_page/pStore.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/custom_page/pTodoList.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/custom_page/pUser.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/custom_page/pVisitCollection.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/data/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/data/_setup.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/data/test_account.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/data/test_asset.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/data/test_attendaceCanlendar.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/data/test_attendaceGroup.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/data/test_channelCustomer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/data/test_competingproduct.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/data/test_dictionary.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/data/test_gift.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/data/test_ka.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/data/test_kpi.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/data/test_log.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/data/test_login.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/data/test_monitor.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/data/test_notice.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/data/test_org.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/data/test_permission.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/data/test_planMake.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/data/test_post.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/data/test_product.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/data/test_report.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/data/test_shiftManagement.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/data/test_signRecord.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/data/test_store.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/data/test_user.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/data/test_visitCollection.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/data/test_workManagement.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/data_script/account_init.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/data_script/database_init.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/import/user_import.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/main.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/master" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/nose.cfg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/report/test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/support/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/support/alert.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/support/base.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/support/button.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/support/checkbox.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/support/datepicker.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/support/droptree.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/support/form.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/support/importdialog.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/support/item_locate.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/support/list.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/support/monthpicker.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/support/radio.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/support/search.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/support/select.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/support/tab.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/support/table.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/support/text.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/support/yearpicker.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/_setup.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_a_system/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_a_system/test_b_permission_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_a_system/test_c_dictionary_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_a_system/test_d_log_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_b_user/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_b_user/test_d_user_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_b_user/test_e_account_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_b_user/test_f_post_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_b_user/test_g_org_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_c_product/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_c_product/test_h_product_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_c_product/test_i_competitionGoods_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_c_product/test_j_gift_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_d_customer/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_d_customer/test_k_store_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_d_customer/test_l_channelcustomer_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_d_customer/test_m_KA_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_e_asset/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_e_asset/test_n_asset_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_f_information/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_f_information/test_o_notice_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_g_workreport/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_g_workreport/test_a_myReport_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_g_workreport/test_a_receivedReport_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_h_visit/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_h_visit/test_p_monitor_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_h_visit/test_q_planmake_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_h_visit/test_r_visitCollection_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_i_KPI/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_i_KPI/test_a_personKPI_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_i_KPI/test_b_personEndSaleKPI_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_i_KPI/test_c_orgnizationKPI_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_i_KPI/test_d_orgnizationEndSaleKPI_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_j_attendance/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_j_attendance/test_s_shiftManagement_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_j_attendance/test_t_attendanceCanlendar_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_j_attendance/test_u_attendanceGroup_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_j_attendance/test_v_signRecord_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_k_workmanagement/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_k_workmanagement/test_a_todoList_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/testcase/test_menu_k_workmanagement/test_b_doneList_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/util/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/util/days.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/util/db.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/util/html.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/util/mail.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sfa_ent/util/pg_db.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/related_package/HTMLTestRunner.py" afterPath="$PROJECT_DIR$/related_package/HTMLTestRunner.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/WebAutoTest$main.coverage" NAME="main Coverage Results" MODIFIED="1535544746108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfa_ent" />
+    <SUITE FILE_PATH="coverage/WebAutoTest$clearEnv.coverage" NAME="clearEnv Coverage Results" MODIFIED="1534822046940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfa_ent" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="WebAutoTest" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="item_locate.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UiTestFrameWork/support/item_locate.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="713">
+              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UiTestFrameWork/support/list.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-414">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="select.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UiTestFrameWork/support/select.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-643">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="table.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UiTestFrameWork/support/table.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1702">
+              <caret line="74" column="78" lean-forward="false" selection-start-line="74" selection-start-column="78" selection-end-line="74" selection-end-column="78" />
+              <folding>
+                <element signature="e#24#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_d_user_module.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UiTestFrameWork/testcase/test_menu_b_user/test_d_user_module.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1448">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UiTestFrameWork/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="clearEnv.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UiTestFrameWork/clearEnv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UiTestFrameWork/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UiTestFrameWork/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-344">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HTMLTestRunner.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/related_package/HTMLTestRunner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1357">
+              <caret line="59" column="24" lean-forward="false" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
+              <folding>
+                <element signature="e#3328#3343#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>list_001</find>
+      <find>list_00</find>
+      <find>list_005</find>
+      <find>departmentPage</find>
+      <find>proNameFilter</find>
+      <find>se</find>
+      <find>ser</find>
+      <find>sea</find>
+      <find>searc</find>
+      <find>search</find>
+      <find>search_</find>
+      <find>search_0</find>
+      <find>search_00</find>
+      <find>search_001</find>
+      <find>message_box</find>
+      <find>sureBtn</find>
+      <find>pause</find>
+      <find>browser_core_type</find>
+      <find>1</find>
+      <find>13</find>
+      <find>138</find>
+      <find>1380</find>
+      <find>13800</find>
+      <find>138000</find>
+      <find>1380000</find>
+      <find>13800000</find>
+      <find>138000000</find>
+      <find>1380000000</find>
+      <find>13800000003</find>
+      <find>PLA_ACCOUNT_CLEAR</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Administrator\Desktop\81framework\WebAutoTest\sfa_ent</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sfa_ent/support/search.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/testcase/test_menu_c_product/test_h_product_module.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/testcase/test_menu_c_product/test_i_competitionGoods_module.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/testcase/test_menu_c_product/test_j_gift_module.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/testcase/test_menu_f_information/test_o_notice_module.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/testcase/test_menu_e_asset/test_n_asset_module.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/testcase/test_menu_h_visit/test_r_visitCollection_module.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/testcase/test_menu_h_visit/test_q_planmake_module.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/testcase/test_menu_i_KPI/test_a_personKPI_module.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/testcase/test_menu_i_KPI/test_b_personEndSaleKPI_module.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/testcase/test_menu_i_KPI/test_c_orgnizationKPI_module.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/testcase/test_menu_i_KPI/test_d_orgnizationEndSaleKPI_module.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/testcase/test_menu_k_workmanagement/test_a_todoList_module.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/testcase/test_menu_k_workmanagement/test_b_doneList_module.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/main.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/testcase/test_menu_b_user/test_d_user_module.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/data/test_org.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/data/test_ka.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/testcase/test_menu_b_user/test_g_org_module.py" />
+        <option value="$PROJECT_DIR$/related_package/readMe.txt" />
+        <option value="$PROJECT_DIR$/sfa_ent/custom_page/pLogin.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/custom_page/extensions.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/config.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/custom_page/pProduct.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/custom_page/pStore.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/custom_page/pAsset.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/custom_page/pNotice.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/custom_page/pReport.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/custom_page/pVisitCollection.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/custom_page/pMonitor.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/custom_page/pPlanMake.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/custom_page/pKA.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/custom_page/pChannelCustomer.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/custom_page/pGift.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/custom_page/pCompetingProduct.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/custom_page/pTodoList.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/custom_page/pReceivedReport.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/custom_page/pOrgKpi.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/custom_page/pKpi.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/custom_page/pDoneList.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/custom_page/pSignRecord.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/custom_page/pShiftManagement.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/custom_page/pAttendanceGroup.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/custom_page/pAttendaceCanlendar.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/custom_page/pUser.py" />
+        <option value="$PROJECT_DIR$/sfa_ent/data/test_store.py" />
+        <option value="$PROJECT_DIR$/UiTestFrameWork/custom_page/pLogin.py" />
+        <option value="$PROJECT_DIR$/UiTestFrameWork/custom_page/pUser.py" />
+        <option value="$PROJECT_DIR$/UiTestFrameWork/support/item_locate.py" />
+        <option value="$PROJECT_DIR$/UiTestFrameWork/support/table.py" />
+        <option value="$PROJECT_DIR$/related_package/HTMLTestRunner.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UiTestFrameWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UiTestFrameWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testcase" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UiTestFrameWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testcase" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_menu_b_user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UiTestFrameWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="support" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UiTestFrameWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="report" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UiTestFrameWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="import" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UiTestFrameWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data_script" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UiTestFrameWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UiTestFrameWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="custom_page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UiTestFrameWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="capture" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAutoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="related_package" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="PostgreSQL" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\81framework\WebAutoTest\sfa_ent\testcase\test_menu_i_attendance" />
+      <recent name="C:\Users\Administrator\Desktop\81framework\WebAutoTest\sfa_ent\testcase\test_menu_g_visit" />
+      <recent name="C:\Users\Administrator\Desktop\81framework\WebAutoTest\sfa_ent\testcase\test_menu_b_system" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\81framework\WebAutoTest\sfa_ent\testcase\test_menu_b_system" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration default="false" name="clearEnv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sfa_ent" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebAutoTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sfa_ent/clearEnv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sfa_ent" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebAutoTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sfa_ent/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebAutoTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebAutoTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebAutoTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebAutoTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="WebAutoTest" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebAutoTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebAutoTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.clearEnv" />
+      <item index="1" class="java.lang.String" itemvalue="Python.main" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.clearEnv" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34728e91-aa27-4480-8f44-f2c12dd7c724" name="默认的" comment="" />
+      <created>1531810194277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531810194277</updated>
+    </task>
+    <task id="LOCAL-00037" summary="1.修改table获取行内容方法名，get_by_cus -&gt; get_by&#10;2.构建考勤管理-考勤日历模块简单测试框架&#10;3.新增日历控件-datepicker002&#10;4.重构日历控件操作方法，datepicker.py, 使用考勤日历控件时赋值格式为：'xxxx-xx-xx,002'">
+      <created>1533115275866</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1533115275867</updated>
+    </task>
+    <task id="LOCAL-00038" summary="重构日历控件datepicker001，适配单页面双日历控件问题">
+      <created>1533181663604</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1533181663604</updated>
+    </task>
+    <task id="LOCAL-00039" summary="1.提交班次管理模块用例，新增对应数据库函数&#10;2.新增考勤模块表单table008及时间刻度下拉列表list009&#10;3.">
+      <created>1533203505998</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1533203505998</updated>
+    </task>
+    <task id="LOCAL-00040" summary="1.遗漏文件提交">
+      <created>1533203567974</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1533203567974</updated>
+    </task>
+    <task id="LOCAL-00041" summary="1.新增日期数据获取模块days.py应用于考勤日历模块&#10;2.提交考勤日历模块测试用例及对应数据库脚本&#10;3.修复datapicker控件方法bug">
+      <created>1533287063291</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1533287063291</updated>
+    </task>
+    <task id="LOCAL-00042" summary="1.提交考勤组管理用例框架&#10;2.修改校验错误时的提示语&#10;3.修改测试用例备注规范&#10;详见test_b_permission">
+      <created>1533535351534</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1533535351534</updated>
+    </task>
+    <task id="LOCAL-00043" summary="1.补充其他用例的提示语">
+      <created>1533535771298</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1533535771298</updated>
+    </task>
+    <task id="LOCAL-00044" summary="1.修改用例内部校验报错语句&#10;2.调整文件夹结构">
+      <created>1533544200740</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1533544200740</updated>
+    </task>
+    <task id="LOCAL-00045" summary="1.调整语句对齐方式及间距">
+      <created>1533544985250</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1533544985250</updated>
+    </task>
+    <task id="LOCAL-00046" summary="1.提交考勤组数据初始化及清理脚本&#10;2.配置对应函数调用名称">
+      <created>1533550063303</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1533550063303</updated>
+    </task>
+    <task id="LOCAL-00047" summary="1.修改考勤组数据库脚本及部分测试数据">
+      <created>1533550570669</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1533550570669</updated>
+    </task>
+    <task id="LOCAL-00048" summary="1.提交考勤组测试用例及数据库脚本">
+      <created>1533624308455</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1533624308455</updated>
+    </task>
+    <task id="LOCAL-00049" summary="1.合并代码">
+      <created>1533625356304</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1533625356304</updated>
+    </task>
+    <task id="LOCAL-00050" summary="1.上传功能覆盖清单">
+      <created>1533632083898</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1533632083899</updated>
+    </task>
+    <task id="LOCAL-00051" summary="1.提交考勤记录用例框架">
+      <created>1533635862833</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1533635862833</updated>
+    </task>
+    <task id="LOCAL-00052" summary="1.提交考勤记录用例框架">
+      <created>1533696992876</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1533696992876</updated>
+    </task>
+    <task id="LOCAL-00053" summary="1.更新日历控件修复bug&#10;2.提交考勤记录测试用例">
+      <created>1533699826502</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1533699826502</updated>
+    </task>
+    <task id="LOCAL-00054" summary="1.重构渠道客户模块用例及对应数据库脚本">
+      <created>1533720215967</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1533720215967</updated>
+    </task>
+    <task id="LOCAL-00055" summary="1.恢复数据库脚本">
+      <created>1533720674244</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1533720674244</updated>
+    </task>
+    <task id="LOCAL-00056" summary="1.重构渠道客户测试用例，添加批量操作及数据校验部分代码">
+      <created>1533725385291</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1533725385291</updated>
+    </task>
+    <task id="LOCAL-00057" summary="1.优化数据库终端管理模块数据库脚本">
+      <created>1533725511761</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1533725511761</updated>
+    </task>
+    <task id="LOCAL-00058" summary="1.重构KA系统模块数据库用例&#10;2.新增KA数据清理函数">
+      <created>1533784160276</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1533784160276</updated>
+    </task>
+    <task id="LOCAL-00059" summary="1.重构KA系统模块测试用例，增加批量操作相关代码">
+      <created>1533796991281</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1533796991281</updated>
+    </task>
+    <task id="LOCAL-00060" summary="1.修改人员模块用例&#10;2.优化数据库脚本">
+      <created>1533802011126</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1533802011126</updated>
+    </task>
+    <task id="LOCAL-00061" summary="1.添加部分用例注释&#10;2.修改终端客户测试数据">
+      <created>1533883717564</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1533883717564</updated>
+    </task>
+    <task id="LOCAL-00062" summary="1.修改报告生成框架，添加截图功能，css支持改为走网络途径&#10;2.修改人员模块部分代码，实现操作异常/校验出错时都可以实时截图">
+      <created>1534229278819</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1534229278819</updated>
+    </task>
+    <task id="LOCAL-00063" summary="1.修改表单校验方法，增加截图功能&#10;2.新增equal方法替换之前的eq_方法以实现校验出错时能及时截图">
+      <created>1534232946478</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1534232946478</updated>
+    </task>
+    <task id="LOCAL-00064" summary="1.修改表单校验方法，增加截图功能&#10;2.新增equal方法替换之前的eq_方法以实现校验出错时能及时截图">
+      <created>1534233077528</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1534233077528</updated>
+    </task>
+    <task id="LOCAL-00065" summary="1.更新帐号管理，职位管理模块测试用例">
+      <created>1534236507030</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1534236507030</updated>
+    </task>
+    <task id="LOCAL-00066" summary="1.更新相关用例，替换eq_方法">
+      <created>1534239111895</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1534239111896</updated>
+    </task>
+    <task id="LOCAL-00067" summary="1.修改snapshot参数形式">
+      <created>1534239592490</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1534239592490</updated>
+    </task>
+    <task id="LOCAL-00068" summary="1.上传操作日志模块用例框架">
+      <created>1534243096809</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1534243096809</updated>
+    </task>
+    <task id="LOCAL-00069" summary="1.提交系统-操作日志模块用例">
+      <created>1534326906729</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1534326906729</updated>
+    </task>
+    <task id="LOCAL-00070" summary="1.修改客户模块所有用例，提升稳定性">
+      <created>1534403568660</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1534403568660</updated>
+    </task>
+    <task id="LOCAL-00071" summary="1.修改部分用例代码，提升联调稳定性">
+      <created>1534412866589</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1534412866589</updated>
+    </task>
+    <task id="LOCAL-00072" summary="1.修改部分用例代码，提升联调稳定性">
+      <created>1534412936140</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1534412936140</updated>
+    </task>
+    <task id="LOCAL-00073" summary="1.修改部分用例代码，提升联调稳定性">
+      <created>1534415185856</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1534415185856</updated>
+    </task>
+    <task id="LOCAL-00074" summary="1.修改测试数据，修复联调bug">
+      <created>1534736080259</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1534736080259</updated>
+    </task>
+    <task id="LOCAL-00075" summary="1.微调人员模块测试用例">
+      <created>1534754427679</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1534754427679</updated>
+    </task>
+    <task id="LOCAL-00076" summary="1.微调table001控件，调整clickableCol路径">
+      <created>1534754613977</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1534754613977</updated>
+    </task>
+    <task id="LOCAL-00077" summary="1.删除测试用例，准备重新上传">
+      <created>1534759640487</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1534759640487</updated>
+    </task>
+    <task id="LOCAL-00078" summary="1.提交测试用例">
+      <created>1534759679949</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1534759679949</updated>
+    </task>
+    <task id="LOCAL-00079" summary="1.提交测试用例">
+      <created>1534902888265</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1534902888266</updated>
+    </task>
+    <task id="LOCAL-00080" summary="1.格式化所有定位文件，优化代码格式，提高可读性">
+      <created>1535005302649</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1535005302649</updated>
+    </task>
+    <task id="LOCAL-00081" summary="1.search控件更新&#10;2.测试脚本微调">
+      <created>1535015359804</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1535015359804</updated>
+    </task>
+    <task id="LOCAL-00082" summary="1.微调脚本，提升虚拟机运行脚本的稳定性">
+      <created>1535443066098</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1535443066099</updated>
+    </task>
+    <task id="LOCAL-00083" summary="1.更新test_org.保持一致">
+      <created>1535445858724</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1535445858724</updated>
+    </task>
+    <task id="LOCAL-00084" summary="1.优化测试数据，提升测试脚本稳定性">
+      <created>1535523154636</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1535523154637</updated>
+    </task>
+    <task id="LOCAL-00085" summary="1.修改readMe文本内容">
+      <created>1535711631584</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1535711631585</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.221875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27765727" sideWeight="0.49356222" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23819979" sideWeight="0.25375536" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31344903" sideWeight="0.65450644" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45227766" sideWeight="0.7666309" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.49785408" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20390455" sideWeight="0.7462446" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.49570817" order="7" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27765727" sideWeight="0.49356222" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2548807" sideWeight="0.2473176" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3470716" sideWeight="0.47424892" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.49785408" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45227766" sideWeight="0.7666309" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18655097" sideWeight="0.7526824" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27145922" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.49570817" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.优化数据库终端管理模块数据库脚本" />
+    <MESSAGE value="1.重构KA系统模块数据库用例&#10;2.新增KA数据清理函数" />
+    <MESSAGE value="1.重构KA系统模块测试用例，增加批量操作相关代码" />
+    <MESSAGE value="1.修改人员模块用例&#10;2.优化数据库脚本" />
+    <MESSAGE value="1.添加部分用例注释&#10;2.修改终端客户测试数据" />
+    <MESSAGE value="1.修改报告生成框架，添加截图功能，css支持改为走网络途径&#10;2.修改人员模块部分代码，实现操作异常/校验出错时都可以实时截图" />
+    <MESSAGE value="1.修改表单校验方法，增加截图功能&#10;2.新增equal方法替换之前的eq_方法以实现校验出错时能及时截图" />
+    <MESSAGE value="1.更新帐号管理，职位管理模块测试用例" />
+    <MESSAGE value="1.更新相关用例，替换eq_方法" />
+    <MESSAGE value="1.修改snapshot参数形式" />
+    <MESSAGE value="1.上传操作日志模块用例框架" />
+    <MESSAGE value="1.提交系统-操作日志模块用例" />
+    <MESSAGE value="1.修改客户模块所有用例，提升稳定性" />
+    <MESSAGE value="1.修改部分用例代码，提升联调稳定性" />
+    <MESSAGE value="1.修改测试数据，修复联调bug" />
+    <MESSAGE value="1.微调人员模块测试用例" />
+    <MESSAGE value="1.微调table001控件，调整clickableCol路径" />
+    <MESSAGE value="1.删除测试用例，准备重新上传" />
+    <MESSAGE value="1.提交测试用例" />
+    <MESSAGE value="1.格式化所有定位文件，优化代码格式，提高可读性" />
+    <MESSAGE value="1.search控件更新&#10;2.测试脚本微调" />
+    <MESSAGE value="1.微调脚本，提升虚拟机运行脚本的稳定性" />
+    <MESSAGE value="1.更新test_org.保持一致" />
+    <MESSAGE value="1.优化测试数据，提升测试脚本稳定性" />
+    <MESSAGE value="1.修改readMe文本内容" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.修改readMe文本内容" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sfa_ent/testcase/test_menu_j_attendance/test_s_shiftManagement_module.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sfa_ent/testcase/test_menu_b_user/test_g_org_module.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="38" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sfa_ent/custom_page/pMonitor.py" />
+    <entry file="file://$PROJECT_DIR$/sfa_ent/custom_page/pPlanMake.py" />
+    <entry file="file://$PROJECT_DIR$/sfa_ent/custom_page/pStore.py" />
+    <entry file="file://$PROJECT_DIR$/sfa_ent/custom_page/pKA.py" />
+    <entry file="file://$PROJECT_DIR$/sfa_ent/custom_page/pChannelCustomer.py" />
+    <entry file="file://$PROJECT_DIR$/sfa_ent/custom_page/pProduct.py" />
+    <entry file="file://$PROJECT_DIR$/sfa_ent/custom_page/pCompetingProduct.py" />
+    <entry file="file://$PROJECT_DIR$/sfa_ent/custom_page/pGift.py" />
+    <entry file="file://$PROJECT_DIR$/sfa_ent/custom_page/pReceivedReport.py" />
+    <entry file="file://$PROJECT_DIR$/sfa_ent/custom_page/pOrgKpi.py" />
+    <entry file="file://$PROJECT_DIR$/sfa_ent/custom_page/pKpi.py" />
+    <entry file="file://$PROJECT_DIR$/sfa_ent/custom_page/pTodoList.py" />
+    <entry file="file://$PROJECT_DIR$/sfa_ent/custom_page/pDoneList.py" />
+    <entry file="file://$PROJECT_DIR$/sfa_ent/custom_page/pSignRecord.py" />
+    <entry file="file://$PROJECT_DIR$/sfa_ent/custom_page/pShiftManagement.py" />
+    <entry file="file://$PROJECT_DIR$/sfa_ent/custom_page/pAttendanceGroup.py" />
+    <entry file="file://$PROJECT_DIR$/sfa_ent/custom_page/pAttendaceCanlendar.py" />
+    <entry file="file://$PROJECT_DIR$/sfa_ent/custom_page/pLog.py" />
+    <entry file="file://$PROJECT_DIR$/sfa_ent/custom_page/pPost.py" />
+    <entry file="file://$PROJECT_DIR$/sfa_ent/custom_page/pOrg.py" />
+    <entry file="file://$PROJECT_DIR$/sfa_ent/custom_page/pPermission.py" />
+    <entry file="file://$PROJECT_DIR$/sfa_ent/custom_page/pDictionary.py" />
+    <entry file="file://$PROJECT_DIR$/sfa_ent/custom_page/pAccount.py" />
+    <entry file="file://$PROJECT_DIR$/sfa_ent/testcase/test_menu_d_customer/test_m_KA_module.py" />
+    <entry file="file://$PROJECT_DIR$/sfa_ent/data/test_ka.py" />
+    <entry file="file://$PROJECT_DIR$/sfa_ent/testcase/test_menu_d_customer/test_k_store_module.py" />
+    <entry file="file://$PROJECT_DIR$/sfa_ent/data/test_store.py" />
+    <entry file="file://$PROJECT_DIR$/sfa_ent/custom_page/pUser.py" />
+    <entry file="file://$PROJECT_DIR$/UiTestFrameWork/.idea/8.1framework.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UiTestFrameWork/custom_page/extensions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1357">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UiTestFrameWork/custom_page/pLogin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UiTestFrameWork/custom_page/pUser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UiTestFrameWork/data/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UiTestFrameWork/data/_setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-661">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UiTestFrameWork/data/test_user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-229">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UiTestFrameWork/support/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UiTestFrameWork/support/alert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UiTestFrameWork/support/button.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UiTestFrameWork/support/droptree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1241">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UiTestFrameWork/support/item_locate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UiTestFrameWork/support/list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-414">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UiTestFrameWork/support/select.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-643">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UiTestFrameWork/support/table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1702">
+          <caret line="74" column="78" lean-forward="false" selection-start-line="74" selection-start-column="78" selection-end-line="74" selection-end-column="78" />
+          <folding>
+            <element signature="e#24#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UiTestFrameWork/testcase/test_menu_b_user/test_d_user_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1448">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UiTestFrameWork/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UiTestFrameWork/clearEnv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UiTestFrameWork/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UiTestFrameWork/nose.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UiTestFrameWork/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-344">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/related_package/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1357">
+          <caret line="59" column="24" lean-forward="false" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
+          <folding>
+            <element signature="e#3328#3343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
